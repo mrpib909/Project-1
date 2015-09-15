@@ -1,0 +1,23 @@
+body{
+ background-image: url(images/backimg.png);
+}
+.visible {
+  white-space: pre;
+  font-family: monospace;
+    display: block;
+    position: absolute;
+    top: 550px;
+    left: 300px;
+    
+    
+}
+.head{
+ text-align: center;
+    top:200px;
+    font-family: fantasy;
+}
+div {
+  display: none;
+  white-space: pre;
+  font-family: monospace;
+}
